@@ -94,7 +94,6 @@ extra/private/google-modules/soc/gs/drivers/mfd/s2mpg12-mfd.ko
 extra/private/google-modules/soc/gs/drivers/mfd/s2mpg13-mfd.ko
 extra/private/google-modules/soc/gs/drivers/dma-buf/heaps/samsung/samsung_dma_heap.ko
 extra/private/google-modules/soc/gs/drivers/ufs/ufs-exynos-gs.ko
-extra/private/google-modules/soc/gs/drivers/ufs/ufs-pixel-fips140.ko
 extra/private/google-modules/soc/gs/drivers/spi/spi-s3c64xx.ko
 extra/private/google-modules/soc/gs/drivers/usb/dwc3/dwc3-exynos-usb.ko
 extra/private/google-modules/soc/gs/drivers/usb/host/xhci-exynos.ko
