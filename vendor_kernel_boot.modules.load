@@ -114,9 +114,7 @@ panel-boe-nt37290.ko
 panel-samsung-drv.ko
 panel-samsung-emul.ko
 panel-samsung-s6e3fc3.ko
-panel-samsung-s6e3fc3-l10.ko
 panel-samsung-s6e3fc3-p10.ko
-panel-samsung-s6e3fc5.ko
 panel-samsung-s6e3hc2.ko
 panel-samsung-s6e3hc3-c10.ko
 panel-samsung-s6e3hc3.ko
@@ -203,4 +201,3 @@ xhci-exynos.ko
 zcomp_cpu.ko
 zcomp_eh.ko
 zram_gs.ko
-zram.ko

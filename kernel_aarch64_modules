@@ -28,7 +28,6 @@ bigwave.ko
 bluetooth.ko
 bsd_comp.ko
 btbcm.ko
-btpower.ko
 btqca.ko
 btsdio.ko
 bts.ko
@@ -45,11 +44,6 @@ cfg80211.ko
 cl_dsp-core.ko
 clk_exynos_gs.ko
 cmupmucal.ko
-cnss2.ko
-cnss_nl.ko
-cnss_plat_ipc_qmi_svc.ko
-cnss_prealloc.ko
-cnss_utils.ko
 cpif.ko
 cpif_page.ko
 cp_thermal_zone.ko
@@ -61,7 +55,6 @@ debug-reboot.ko
 debug-snapshot-debug-kinfo.ko
 diag.ko
 drm_display_helper.ko
-drv2624.ko
 dss.ko
 dw3000-core-tests.ko
 dw3000.ko
@@ -100,8 +93,6 @@ focal_touch.ko
 fps_touch_handler.ko
 ftdi_sio.ko
 g2d.ko
-gcip.ko
-goodix_brl_touch.ko
 goodixfp.ko
 google-battery.ko
 google_bcl.ko
@@ -113,7 +104,6 @@ google_dock.ko
 google_dual_batt_gauge.ko
 google_modemctl.ko
 google_tcpci_shim.ko
-google_wlan_mac.ko
 goog_touch_interface.ko
 gpu_cooling.ko
 gs_acpm.ko
@@ -191,7 +181,6 @@ mcps802154.ko
 mcps802154_region_fira.ko
 mcps802154_region_nfcc_coex.ko
 mcps802154_region_pctt.ko
-mhi.ko
 mii.ko
 nfc.ko
 nhc_dest.ko
@@ -209,9 +198,7 @@ panel-common.ko
 panel-samsung-drv.ko
 panel-samsung-emul.ko
 panel-samsung-s6e3fc3.ko
-panel-samsung-s6e3fc3-l10.ko
 panel-samsung-s6e3fc3-p10.ko
-panel-samsung-s6e3fc5.ko
 panel-samsung-s6e3hc2.ko
 panel-samsung-s6e3hc3-c10.ko
 panel-samsung-s6e3hc3.ko
@@ -244,9 +231,6 @@ ppp_mppe.ko
 pppox.ko
 pptp.ko
 pwm-exynos.ko
-qmi_helpers.ko
-qrtr.ko
-qrtr-mhi.ko
 r8152.ko
 r8153_ecm.ko
 rfcomm.ko
@@ -332,12 +316,9 @@ vh_mm.ko
 vh_preemptirq_long.ko
 vh_sched.ko
 vh_thermal.ko
-wlan_firmware_service.ko
-wlan.ko
 wwan.ko
 xhci-exynos.ko
 zcomp_cpu.ko
 zcomp_eh.ko
 zram_gs.ko
-zram.ko
 zsmalloc.ko
