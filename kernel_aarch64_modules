@@ -234,6 +234,7 @@ pwm-exynos.ko
 r8152.ko
 r8153_ecm.ko
 rfcomm.ko
+rfkill.ko
 rt4539_bl.ko
 rt9471_charger.ko
 rtc-s2mpg12.ko
