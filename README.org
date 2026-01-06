@@ -1,0 +1,18 @@
+#+TITLE: Kernel Prebuilts for Google Pixel 7 and 7 Pro
+
+* Table of contents
+:PROPERTIES:
+:TOC:
+:END:
+:CONTENTS:
+- [[#about][About]]
+- [[#source][Source]]
+:END:
+
+* About
+
+This is a repository that holds the kernel prebuilts for the Google Pixel 7 and 7 Pro.
+
+* Source
+
+These prebuilts are built from [[https://github.com/sidharthify/android_kernel_google_gs201]['Syd' Kernel]].
