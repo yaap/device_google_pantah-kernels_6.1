@@ -40,6 +40,7 @@ extra/private/google-modules/gpu/mali_kbase/tests/kutf/mali_kutf.ko
 extra/private/google-modules/gpu/mali_kbase/tests/mali_kutf_clk_rate_trace/kernel/mali_kutf_clk_rate_trace_test_portal.ko
 extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
 extra/private/google-modules/gpu/mali_pixel/mali_pixel.ko
+extra/private/google-modules/gxp/gs201/gcip-kernel-driver/drivers/gcip/gcip.ko
 extra/private/google-modules/gxp/gs201/gxp.ko
 extra/private/google-modules/lwis/lwis.ko
 extra/private/google-modules/video/gchips/bigwave.ko
